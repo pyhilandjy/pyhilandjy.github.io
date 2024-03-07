@@ -245,7 +245,8 @@
 2. 개념적 모델링 : 현실 세계의 정보를 추상화하여 데이터의 의미, 구조, 관계를 정의
     - 엔터티, 속성, 관계 (엔터티-관계 다이어그램 er다이어그램)
 
-<p align="center"><img src="/image/1.png" width="600"></p>
+<img width="668" alt="1" src="https://github.com/pyhilandjy/pyhilandjy.github.io/assets/133948259/3e98fac7-c271-4498-8fe4-6c1f465de001">
+
 
 <hr/>
 
