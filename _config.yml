@@ -20,12 +20,12 @@ title                    : "CS_study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "junyong"
-description              : "hello sso"
-url                      : "https://pyhilandjy.github.io"
-baseurl                  : #" the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/pyhilandjy/pyhilandjy.github.io"
-teaser                   : "/assets/image/sso.jpg"
-logo                     : "/assets/image/sso.jpg"
+description              : "hello python"
+url                      : "https://pyhilandjy.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "이소현 사랑해"
-  avatar           : "assets/image/sso.jpg"
-  bio              : "hello sso~"
-  location         : "Somewhere"
+  name             : "이소현 바부 사랑해"
+  avatar           : "/assets/image/sso.jpg"
+  bio              : "헤헤"
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
@@ -157,7 +157,7 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"kramdown
+  - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
   - .asset-cache
