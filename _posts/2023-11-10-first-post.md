@@ -245,14 +245,14 @@
 2. 개념적 모델링 : 현실 세계의 정보를 추상화하여 데이터의 의미, 구조, 관계를 정의
     - 엔터티, 속성, 관계 (엔터티-관계 다이어그램 er다이어그램)
 
-<p align="center"><img src="posts/image/1.png" width="60%", height="40%"></p>
+<p align="center"><img src="image/1.png" width="60%", height="40%"></p>
 
 <hr/>
 
 3. 논리적 모델링 : 개념적 모델을 구현 가능한 형태로 변환하여 데이터베이스 구조를 설계
     - 테이블, 컬럼, 데이터 유형, 키(ID)
 
-<p align="center"><img src="posts/image/2.png" width="60%", height="40%"></p>
+<p align="center"><img src="image/2.png" width="60%", height="40%"></p>
 
 <hr/>
 
@@ -261,7 +261,7 @@
 
 
 
-<p align="center"><img src="posts/image/3.png" width="60%", height="40%"></p>
+<p align="center"><img src="image/3.png" width="60%", height="40%"></p>
 <hr/>
 
 ### **데이터 프로세스**
@@ -278,7 +278,7 @@
 
 2. 엔터티 속성
 
-<p align="center"><img src="posts/image/4.png" width="60%", height="40%"></p>
+<p align="center"><img src="image/4.png" width="60%", height="40%"></p>
 
 <hr/>
 
@@ -286,7 +286,7 @@
 
 <hr/>
 
-<p align="center"><img src="posts/image/5.png" width="60%", height="40%"></p>
+<p align="center"><img src="image/5.png" width="60%", height="40%"></p>
 
 <hr/>
 
