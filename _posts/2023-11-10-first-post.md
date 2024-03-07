@@ -253,16 +253,17 @@
 3. 논리적 모델링 : 개념적 모델을 구현 가능한 형태로 변환하여 데이터베이스 구조를 설계
     - 테이블, 컬럼, 데이터 유형, 키(ID)
 
-<p align="center"><img src="/image/2.png" width="600"></p>
+<img width="676" alt="2" src="https://github.com/pyhilandjy/pyhilandjy.github.io/assets/133948259/1e4f312b-779d-4bed-a57e-dd742334d542">
+
+
 
 <hr/>
 
 4. 물리적 모델링 : 논리적 모델을 특정 데이터베이스 관리 시스템(DBMS)에 맞춰 구현
     - 데이터베이스 엔진, 인덱싱, 데이터베이스 분할
 
+<img width="722" alt="3" src="https://github.com/pyhilandjy/pyhilandjy.github.io/assets/133948259/eced2963-5d1f-410c-adcf-dd6d5d6bfec9">
 
-
-<p align="center"><img src="/image/3.png" width="600"></p>
 <hr/>
 
 ### **데이터 프로세스**
@@ -279,8 +280,8 @@
 
 2. 엔터티 속성
 
-<p align="center"><img src="/pyhilandjy/image/4.png"></p>
-![엔터티속성](/image/4.png)
+<img width="644" alt="4" src="https://github.com/pyhilandjy/pyhilandjy.github.io/assets/133948259/df569202-4ea1-4c90-b214-8637d3e427f0">
+
 
 <hr/>
 
@@ -288,7 +289,7 @@
 
 <hr/>
 
-<p align="center"><img src="/image/5.png" width="600"></p>
+<img width="252" alt="5" src="https://github.com/pyhilandjy/pyhilandjy.github.io/assets/133948259/d1e4a027-b70d-4a08-985f-e4d1262cdf3a">
 
 <hr/>
 
