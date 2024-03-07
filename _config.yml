@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "이소현 바부 사랑해"
   avatar           : "/assets/image/sso.jpeg"
-  bio              : "sso!!"
-  location         : "New Location"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
