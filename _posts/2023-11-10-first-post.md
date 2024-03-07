@@ -279,7 +279,7 @@
 2. 엔터티 속성
 
 <p align="center"><img src="/pyhilandjy/image/4.png"></p>
-![엔터티속성](/images/4.png)
+![엔터티속성](/image/4.png)
 
 <hr/>
 
