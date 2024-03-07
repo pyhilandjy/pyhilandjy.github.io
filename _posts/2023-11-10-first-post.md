@@ -279,7 +279,7 @@
 2. 엔터티 속성
 
 <p align="center"><img src="/image/4.png"></p>
-![1](/images/4.png)
+![](/_posts/images/4.png)
 
 <hr/>
 
