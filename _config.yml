@@ -23,7 +23,7 @@ name                     : "junyong"
 description              : "hello python"
 url                      : "https://pyhilandjy.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/pyhilandjy/pyhilandjy.github.io"
 teaser                   : "/assets/image/sso.jpg"
 logo                     : "/assets/image/sso.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
