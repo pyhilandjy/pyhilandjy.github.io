@@ -278,7 +278,7 @@
 
 2. 엔터티 속성
 
-<p align="center"><img src="/image/4.png" width="600"></p>
+<p align="center"><img src="/image/4.png"></p>
 
 <hr/>
 
