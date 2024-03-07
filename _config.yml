@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "이소현 바부 사랑해"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/sso.jpeg"
+  bio              : "헤헤.."
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
@@ -157,7 +157,7 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
+  - "*.sublime-project"kramdown
   - "*.sublime-workspace"
   - vendor
   - .asset-cache
